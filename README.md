@@ -13,7 +13,9 @@ Projects from the course: Coding Academy Back End (CSCA3B 2024/25) at Cardiff an
   * ✔ anvil
 4. ✔ Complete a DiSC workplace profile
 
-
+task for the week:
+* HM Revenue & Customs
+* Solve fintech isssues
 
 
 
